@@ -100,8 +100,6 @@ nav ul li a:hover::after {
 }
 
 .about-col-1 {
-    height: 811px;
-    width: 624px;
     flex-basis: 35%;
 }
 
@@ -428,10 +426,6 @@ nav .fas {
         left: 25px;
         cursor: pointer;
     }
-
-    .row {
-        justify-content: center;
-    }    
 
     .sub-title {
         font-size: 40px;
