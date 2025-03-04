@@ -429,6 +429,10 @@ nav .fas {
         cursor: pointer;
     }
 
+    .row {
+        justify-content: center;
+    }    
+
     .sub-title {
         font-size: 40px;
     }
